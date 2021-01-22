@@ -23,7 +23,7 @@ make a branch titled with your first name (remember to make the branch and check
 Remember to:
 1. make a subsystem
 2. make commands
-3. store constants in robotMap
+3. store constants in constants.java
 4. make an instance of the subsystem in robotContainer.java
 5. make instances the commands in response to button pressed in robotContainer.java
 6. add comments as you go
