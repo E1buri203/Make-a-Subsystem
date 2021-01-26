@@ -18,7 +18,7 @@ The ideal speed of the motor is not known so it will have to be easily changeabl
 
 ## Directions
 
-make a branch titled with your first name (remember to make the branch and checkout into it before you start working)
+make a branch titled with your first name **remember to make the branch and checkout into it before you start working**
 
 Remember to:
 1. make a subsystem
