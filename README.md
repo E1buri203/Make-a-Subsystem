@@ -33,4 +33,4 @@ Remember to:
 ### Hint 1
 the idea of running the motor while a driver holds a button can be thought of as turning on the motor when they press down, and turning off the motor when they let go.
 ### Hint 2
-Two commands can be used, one to turn on the motor and one to turn it off. Called by buttonPress and buttonRelease respectively.
+THe functionality of this motor is identical to how the rollers already on the robot work.
